@@ -95,6 +95,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 6,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "nijl-waka-kanyo",
   "work": "和歌肝要",
@@ -107,7 +111,7 @@
   "blocks": 6,
   "chars": 2511,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 6,
   "editions": 1,
   "updated": "2026-11-05",
   "updated_at": "2026-11-05T07:24:47+09:00"
